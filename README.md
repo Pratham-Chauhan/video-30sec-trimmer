@@ -11,8 +11,8 @@ positional arguments:
 
 optional arguments:
   -h, --help     show this help message and exit
-  -r, --rotate   rotate video 90°
-  -c, --crop     crop video to fit phone screen
+  -r, --rotate   rotate video 90° (clockwise)
+  -c, --crop     crop video to fit phone screen (20:9 aspect ratio)
   -p, --preview  show only preview
   -d, --dummy    only dummy run
   ```
